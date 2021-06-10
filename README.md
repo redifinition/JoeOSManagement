@@ -209,7 +209,9 @@ FIFO最特别的地方在于器特有的 **belady**现象，也称为抖动现�
 
 <img src="https://joes-bucket.oss-cn-shanghai.aliyuncs.com/img/4.png" style="zoom:50%;" />
 
+
 在指令控制模块点击执行后，指令开始执行。在左侧可以查看当前实时的缺页数和缺页率，在中心可查看内存块的换页情况；在指令序列模块可划动查看指令的执行信息，如下图所示：
+
 
 <img src="https://joes-bucket.oss-cn-shanghai.aliyuncs.com/img/5.png" style="zoom: 50%;" />
 
